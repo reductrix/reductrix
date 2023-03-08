@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm reductrix</h1>
-<h3 align="center">A hardware and low level software developer living in the Netherlands</h3>
+<h3 align="left">A hardware and low level software developer living in the Netherlands</h3>
 
 - 🔭 I’m currently working on **MegaBIOS**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Nothing.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacts and stuff, yknow:</h3>
 <p align="left">
 </p>
 
