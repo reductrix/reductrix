@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Nothing at the moment**
 
-- 🤝 I’m looking for help with **Nothing really**
+- 🤝 I’m looking for help with **nothing really**
 
-- 💬 Ask me about **Anything, really**
+- 💬 Ask me about **anything, really**
 
-- 📫 How to reach me **reductix#0001 on Discord.**
+- 📫 How to reach me **reductrix#0001 on Discord.**
 
 - ⚡ Fun fact **I do not the not of do...**
 
