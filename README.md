@@ -5,12 +5,6 @@
 
 - I’m currently learning **x86 and 6502 ASM, C/C++, Python and HTML/CSS**
 
-- I’m looking to collaborate on **Nothing at the moment**
-
-- I’m looking for help with **nothing really**
-
-- Ask me about **anything, really**
-
 - How to reach me **reductrix#0001 on Discord.**
 
 - Fun fact **I do not the not of do...**
