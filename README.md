@@ -5,7 +5,7 @@
 
 - I’m currently learning **x86 and 6502 ASM, C/C++, Python and HTML/CSS**
 
-- How to reach me **reductrix#0001 on Discord.**
+- How to reach me: **reductrix#0001 on Discord.**
 
 - Fun fact **I do not the not of do...**
 
